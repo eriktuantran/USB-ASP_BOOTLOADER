@@ -1,0 +1,3 @@
+-c usbasp -p m8 -U flash:w:"$(ProjectDir)Debug\$(TargetName).hex":i
+
+-c usbasp -p m8 -U lfuse:w:0xff:m -U hfuse:w:0xd9:m 
