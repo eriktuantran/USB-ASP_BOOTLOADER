@@ -1,0 +1,12 @@
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\bin\Debug\DemoUSBASP.exe.config
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\bin\Debug\DemoUSBASP.exe
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\bin\Debug\DemoUSBASP.pdb
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.Form1.resources
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.Properties.Resources.resources
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.csproj.GenerateResource.Cache
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.exe
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.pdb
+D:\ALL Project\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.csprojResolveAssemblyReference.cache
+D:\ALLProject\C#\DemoUSBASP\DemoUSBASP\bin\Debug\DemoUSBASP.exe.config
+D:\ALLProject\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.exe
+D:\ALLProject\C#\DemoUSBASP\DemoUSBASP\obj\Debug\DemoUSBASP.pdb
