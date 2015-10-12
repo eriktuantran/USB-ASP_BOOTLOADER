@@ -45,7 +45,8 @@ namespace DemoUSBASP
         private double[] speed_arr = { 1, 2, 4, 8, 16, 32, 93.75, 187.5, 375, 750, 1500 };
 
         //initial
-        private string avrdude_dir = @"C:\Program Files\USBASP\bin\avrdude.exe";
+      //  private string avrdude_dir = @"C:\Program Files\USBASP\bin\avrdude.exe";
+		private string avrdude_dir = @".\bin\avrdude.exe";
       //  private string configfile  = @"C:\ProgramData\USBASP\data.ini";
       //  private string default_dir = "";
 
